@@ -13,8 +13,9 @@
         <parameter name="systemPort" value="10000"/>
         <parameter name="chromeDrivePort" value="11000"/>
         <classes>
-            <class name="com.qa.tests.LoginTests"></class> <!-- com.qa.tests.LoginTests -->
-<!--            <class name="com.qa.tests.ProductsTest"></class>-->
+            <class name="com.qa.tests.LoginTests"></class>
+            <!-- com.qa.tests.LoginTests -->
+            <class name="com.qa.tests.ProductsTest"></class>
         </classes>
     </test> <!-- Sauce_LabsApp -->
 <!--    <test thread-count="5" name="Pixel 4">-->
