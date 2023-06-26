@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="tests">
+    <test thread-count="5" name="Pixel 3">
+        <listeners>
+            <listener class-name="com.qa.listeners.TestListeners" />
+        </listeners>
+
+        <parameter name="emulator" value="true"/>
+        <parameter name="platformName" value="Android"/>
+        <parameter name="platformVersion" value="12.0"/>
+        <parameter name="udid" value="emulator-5554"/>
+        <parameter name="deviceName" value="pixel_3a"/>
+        <parameter name="systemPort" value="10000"/>
+        <parameter name="chromeDrivePort" value="11000"/>
+        <classes>
+            <class name="com.qa.tests.LoginTests"></class> <!-- com.qa.tests.LoginTests -->
+<!--            <class name="com.qa.tests.ProductsTest"></class>-->
+        </classes>
+    </test> <!-- Sauce_LabsApp -->
+<!--    <test thread-count="5" name="Pixel 4">-->
+<!--        <listeners>-->
+<!--            <listener class-name="com.qa.listeners.TestListeners" />-->
+<!--        </listeners>-->
+
+<!--        <parameter name="emulator" value="true"/>-->
+<!--        <parameter name="platformName" value="Android"/>-->
+<!--        <parameter name="platformVersion" value="12.0"/>-->
+<!--        <parameter name="udid" value="emulator-5556"/>-->
+<!--        <parameter name="deviceName" value="emulator-5556"/>-->
+<!--        <parameter name="systemPort" value="10002"/>-->
+<!--        <parameter name="chromeDrivePort" value="11002"/>-->
+<!--        <classes>-->
+<!--            <class name="com.qa.tests.LoginTests"></class> &lt;!&ndash; com.qa.tests.LoginTests &ndash;&gt;-->
+<!--            <class name="com.qa.tests.ProductsTest"></class>-->
+<!--        </classes>-->
+<!--    </test> &lt;!&ndash; Sauce_LabsApp &ndash;&gt;-->
+</suite> <!-- Default Suite -->

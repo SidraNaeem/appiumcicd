@@ -1,0 +1,22 @@
+[logsAndroid_emulator-5554 INFO ] 2023-06-21 14:14:28.519 LoginTests:48 - 
+**********Starting test invalidPassword**********
+
+[logsAndroid_emulator-5554 INFO ] 2023-06-21 14:14:35.236 LoginPage:18 - Username is standard_user
+[logsAndroid_emulator-5554 INFO ] 2023-06-21 14:14:39.456 LoginPage:24 - Password is invalidusername
+[logsAndroid_emulator-5554 INFO ] 2023-06-21 14:14:41.456 LoginPage:29 - Clicked on Login Button
+[logsAndroid_emulator-5554 INFO ] 2023-06-21 14:14:43.537 LoginTests:70 - Username and password do not match any user in this service.Username and password do not match any user in this service.
+[logsAndroid_emulator-5554 INFO ] 2023-06-21 14:14:45.589 LoginTests:48 - 
+**********Starting test invalidUserName**********
+
+[logsAndroid_emulator-5554 INFO ] 2023-06-21 14:14:45.863 LoginPage:18 - Username is invalidusername
+[logsAndroid_emulator-5554 INFO ] 2023-06-21 14:14:48.229 LoginPage:24 - Password is secret_sauce
+[logsAndroid_emulator-5554 INFO ] 2023-06-21 14:14:50.787 LoginPage:29 - Clicked on Login Button
+[logsAndroid_emulator-5554 INFO ] 2023-06-21 14:14:51.553 LoginTests:58 - Username and password do not match any user in this service.Username and password do not match any user in this service.
+[logsAndroid_emulator-5554 INFO ] 2023-06-21 14:14:53.484 LoginTests:48 - 
+**********Starting test validLogin**********
+
+[logsAndroid_emulator-5554 INFO ] 2023-06-21 14:14:53.805 LoginPage:18 - Username is standard_user
+[logsAndroid_emulator-5554 INFO ] 2023-06-21 14:14:58.235 LoginPage:24 - Password is secret_sauce
+[logsAndroid_emulator-5554 INFO ] 2023-06-21 14:15:01.272 LoginPage:29 - Clicked on Login Button
+[logsAndroid_emulator-5554 INFO ] 2023-06-21 14:15:04.262 ProductsPage:18 - TitlePRODUCTS
+[logsAndroid_emulator-5554 INFO ] 2023-06-21 14:15:04.264 LoginTests:82 - PRODUCTSPRODUCTS

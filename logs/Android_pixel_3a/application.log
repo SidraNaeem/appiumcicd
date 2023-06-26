@@ -1,0 +1,81 @@
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:13:29.116 BaseTest:167 - log path: 
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:14:05.362 LoginTests:48 - 
+**********Starting test invalidPassword**********
+
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:14:12.928 BaseTest:245 - login with standard_user
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:14:17.761 BaseTest:245 - login with invalidusername
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:14:19.648 BaseTest:235 - press login button
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:14:23.176 BaseTest:259 - Error text is Username and password do not match any user in this service.
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:14:23.177 LoginTests:70 - Username and password do not match any user in this service.Username and password do not match any user in this service.
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:14:26.233 LoginTests:48 - 
+**********Starting test invalidUserName**********
+
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:14:28.778 BaseTest:245 - login with invalidusername
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:14:33.316 BaseTest:245 - login with secret_sauce
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:14:35.138 BaseTest:235 - press login button
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:14:36.859 BaseTest:259 - Error text is Username and password do not match any user in this service.
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:14:36.861 LoginTests:58 - Username and password do not match any user in this service.sdsfUsername and password do not match any user in this service.
+[logsAndroid_pixel_3a ERROR] 2023-06-24 16:14:36.890 TestListeners:32 - java.lang.AssertionError: expected [Username and password do not match any user in this service.] but found [Username and password do not match any user in this service.sdsf]
+	at org.testng.Assert.fail(Assert.java:110)
+	at org.testng.Assert.failNotEquals(Assert.java:1577)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+	at org.testng.Assert.assertEquals(Assert.java:131)
+	at org.testng.Assert.assertEquals(Assert.java:655)
+	at org.testng.Assert.assertEquals(Assert.java:665)
+	at com.qa.tests.LoginTests.invalidUserName(LoginTests.java:59)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+	at org.testng.TestRunner.privateRun(TestRunner.java:829)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:475)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:14:41.046 LoginTests:48 - 
+**********Starting test validLogin**********
+
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:14:43.163 BaseTest:245 - login with standard_user
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:14:46.868 BaseTest:245 - login with secret_sauce
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:14:48.927 BaseTest:235 - press login button
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:14:52.642 BaseTest:259 - The Product Title is PRODUCTS
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:14:52.643 LoginTests:82 - PRODUCTSPRODUCTS
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:16:46.859 BaseTest:167 - log path: 
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:17:10.732 LoginTests:48 - 
+**********Starting test invalidPassword**********
+
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:17:15.959 BaseTest:245 - login with standard_user
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:17:18.726 BaseTest:245 - login with invalidusername
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:17:19.760 BaseTest:235 - press login button
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:17:22.254 BaseTest:259 - Error text is Username and password do not match any user in this service.
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:17:22.255 LoginTests:70 - Username and password do not match any user in this service.Username and password do not match any user in this service.
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:17:24.594 LoginTests:48 - 
+**********Starting test invalidUserName**********
+
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:17:25.671 BaseTest:245 - login with invalidusername
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:17:28.185 BaseTest:245 - login with secret_sauce
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:17:30.431 BaseTest:235 - press login button
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:17:31.530 BaseTest:259 - Error text is Username and password do not match any user in this service.
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:17:31.531 LoginTests:58 - Username and password do not match any user in this service.Username and password do not match any user in this service.
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:17:33.432 LoginTests:48 - 
+**********Starting test validLogin**********
+
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:17:34.811 BaseTest:245 - login with standard_user
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:17:36.982 BaseTest:245 - login with secret_sauce
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:17:38.577 BaseTest:235 - press login button
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:17:41.436 BaseTest:259 - The Product Title is PRODUCTS
+[logsAndroid_pixel_3a INFO ] 2023-06-24 16:17:41.438 LoginTests:82 - PRODUCTSPRODUCTS

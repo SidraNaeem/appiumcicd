@@ -1,0 +1,416 @@
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 12:57:36.420 LoginTests:48 - 
+**********Starting test invalidPassword**********
+
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 12:57:41.577 LoginPage:18 - Username is standard_user
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 12:57:46.817 LoginPage:24 - Password is invalidusername
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 12:57:48.806 LoginPage:29 - Clicked on Login Button
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 12:57:51.190 LoginTests:70 - Username and password do not match any user in this service.Username and password do not match any user in this service.
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 12:57:55.150 LoginTests:48 - 
+**********Starting test invalidUserName**********
+
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 12:57:55.648 LoginPage:18 - Username is invalidusername
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 12:58:01.048 LoginPage:24 - Password is secret_sauce
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 12:58:07.944 LoginPage:29 - Clicked on Login Button
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 12:58:09.687 LoginTests:58 - Username and password do not match any user in this service.Username and password do not match any user in this service.
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 12:58:11.648 LoginTests:48 - 
+**********Starting test validLogin**********
+
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 12:58:13.103 LoginPage:18 - Username is standard_user
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 12:58:15.492 LoginPage:24 - Password is secret_sauce
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 12:58:17.971 LoginPage:29 - Clicked on Login Button
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 12:58:20.770 ProductsPage:18 - TitlePRODUCTS
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 12:58:20.771 LoginTests:82 - PRODUCTSPRODUCTS
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 13:21:59.692 LoginTests:48 - 
+**********Starting test invalidPassword**********
+
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 13:22:02.215 LoginPage:18 - Username is standard_user
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 13:22:05.391 LoginPage:24 - Password is invalidusername
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 13:22:07.229 LoginPage:29 - Clicked on Login Button
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 13:22:09.287 LoginTests:70 - Username and password do not match any user in this service.Username and password do not match any user in this service.
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 13:22:11.814 LoginTests:48 - 
+**********Starting test invalidUserName**********
+
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 13:22:12.956 LoginPage:18 - Username is invalidusername
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 13:22:15.174 LoginPage:24 - Password is secret_sauce
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 13:22:18.771 LoginPage:29 - Clicked on Login Button
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 13:22:20.175 LoginTests:58 - Username and password do not match any user in this service.Username and password do not match any user in this service.
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 13:22:24.464 LoginTests:48 - 
+**********Starting test validLogin**********
+
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 13:22:25.083 LoginPage:18 - Username is standard_user
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 13:22:29.071 LoginPage:24 - Password is secret_sauce
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 13:22:32.258 LoginPage:29 - Clicked on Login Button
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 13:22:36.150 ProductsPage:18 - TitlePRODUCTS
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 13:22:36.151 LoginTests:82 - PRODUCTSPRODUCTS
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 14:11:18.194 LoginTests:48 - 
+**********Starting test invalidPassword**********
+
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 14:11:22.482 LoginPage:18 - Username is standard_user
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 14:11:25.967 LoginPage:24 - Password is invalidusername
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 14:11:27.832 LoginPage:29 - Clicked on Login Button
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 14:11:29.829 LoginTests:70 - Username and password do not match any user in this service.Username and password do not match any user in this service.
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 14:11:31.800 LoginTests:48 - 
+**********Starting test invalidUserName**********
+
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 14:11:32.051 LoginPage:18 - Username is invalidusername
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 14:11:35.566 LoginPage:24 - Password is secret_sauce
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 14:11:37.390 LoginPage:29 - Clicked on Login Button
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 14:11:38.163 LoginTests:58 - Username and password do not match any user in this service.Username and password do not match any user in this service.
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 14:11:40.064 LoginTests:48 - 
+**********Starting test validLogin**********
+
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 14:11:40.325 LoginPage:18 - Username is standard_user
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 14:11:42.385 LoginPage:24 - Password is secret_sauce
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 14:11:44.148 LoginPage:29 - Clicked on Login Button
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 14:11:47.008 ProductsPage:18 - TitlePRODUCTS
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 14:11:47.010 LoginTests:82 - PRODUCTSPRODUCTS
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 15:37:00.752 BaseTest:175 - log path: 
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 15:37:33.193 LoginTests:48 - 
+**********Starting test invalidPassword**********
+
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 15:37:37.448 LoginPage:18 - Username is standard_user
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 15:37:42.393 LoginPage:24 - Password is invalidusername
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 15:37:45.551 LoginPage:29 - Clicked on Login Button
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 15:37:49.045 LoginTests:70 - Username and password do not match any user in this service.Username and password do not match any user in this service.
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 15:37:53.792 LoginTests:48 - 
+**********Starting test invalidUserName**********
+
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 15:37:54.661 LoginPage:18 - Username is invalidusername
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 15:37:58.233 LoginPage:24 - Password is secret_sauce
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 15:38:00.875 LoginPage:29 - Clicked on Login Button
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 15:38:02.006 LoginTests:58 - Username and password do not match any user in this service.Username and password do not match any user in this service.
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 15:38:05.155 LoginTests:48 - 
+**********Starting test validLogin**********
+
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 15:38:05.704 LoginPage:18 - Username is standard_user
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 15:38:09.049 LoginPage:24 - Password is secret_sauce
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 15:38:10.959 LoginPage:29 - Clicked on Login Button
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 15:38:14.297 ProductsPage:18 - TitlePRODUCTS
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 15:38:14.299 LoginTests:82 - PRODUCTSPRODUCTS
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 16:34:36.240 BaseTest:165 - log path: 
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 16:34:59.422 LoginTests:48 - 
+**********Starting test invalidPassword**********
+
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 16:39:25.468 BaseTest:165 - log path: 
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 16:39:47.947 LoginTests:48 - 
+**********Starting test invalidPassword**********
+
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 17:12:43.846 BaseTest:167 - log path: 
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 17:13:03.136 LoginTests:48 - 
+**********Starting test invalidPassword**********
+
+[logsAndroid_emulator-5554 ERROR] 2023-06-23 17:13:03.255 TestListeners:32 - java.lang.Error: Unresolved compilation problem: 
+	VERSION_2_3_29 cannot be resolved or is not a field
+
+	at com.aventstack.extentreports.reporter.BasicFileReporter.start(BasicFileReporter.java:98)
+	at com.aventstack.extentreports.ReportObservable.register(ReportObservable.java:191)
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:948)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:658)
+	at com.aventstack.extentreports.ExtentReports.attachReporter(ExtentReports.java:82)
+	at com.qa.reports.ExtentReport.getReporter(ExtentReport.java:23)
+	at com.qa.reports.ExtentReport.startTest(ExtentReport.java:32)
+	at com.qa.listeners.TestListeners.onTestStart(TestListeners.java:77)
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:106)
+	at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:277)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:638)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+	at org.testng.TestRunner.privateRun(TestRunner.java:829)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:475)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[logsAndroid_emulator-5554 ERROR] 2023-06-23 17:13:05.013 TestListeners:32 - java.lang.NullPointerException
+	at com.qa.listeners.TestListeners.onTestFailure(TestListeners.java:64)
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:99)
+	at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:277)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:764)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+	at org.testng.TestRunner.privateRun(TestRunner.java:829)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:475)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 17:22:05.208 BaseTest:167 - log path: 
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 17:22:22.746 LoginTests:48 - 
+**********Starting test invalidPassword**********
+
+[logsAndroid_emulator-5554 ERROR] 2023-06-23 17:22:22.821 TestListeners:32 - java.lang.Error: Unresolved compilation problem: 
+	VERSION_2_3_29 cannot be resolved or is not a field
+
+	at com.aventstack.extentreports.reporter.BasicFileReporter.start(BasicFileReporter.java:98)
+	at com.aventstack.extentreports.ReportObservable.register(ReportObservable.java:191)
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:948)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:658)
+	at com.aventstack.extentreports.ExtentReports.attachReporter(ExtentReports.java:82)
+	at com.qa.reports.ExtentReport.getReporter(ExtentReport.java:23)
+	at com.qa.reports.ExtentReport.startTest(ExtentReport.java:32)
+	at com.qa.listeners.TestListeners.onTestStart(TestListeners.java:77)
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:106)
+	at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:277)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:638)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+	at org.testng.TestRunner.privateRun(TestRunner.java:829)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:475)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[logsAndroid_emulator-5554 ERROR] 2023-06-23 17:22:23.873 TestListeners:32 - java.lang.NullPointerException
+	at com.qa.listeners.TestListeners.onTestFailure(TestListeners.java:64)
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:99)
+	at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:277)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:764)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+	at org.testng.TestRunner.privateRun(TestRunner.java:829)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:475)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 17:24:42.052 BaseTest:167 - log path: 
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 17:25:01.475 LoginTests:48 - 
+**********Starting test invalidPassword**********
+
+[logsAndroid_emulator-5554 ERROR] 2023-06-23 17:25:01.583 TestListeners:32 - java.lang.Error: Unresolved compilation problem: 
+	VERSION_2_3_29 cannot be resolved or is not a field
+
+	at com.aventstack.extentreports.reporter.BasicFileReporter.start(BasicFileReporter.java:98)
+	at com.aventstack.extentreports.ReportObservable.register(ReportObservable.java:191)
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:948)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:658)
+	at com.aventstack.extentreports.ExtentReports.attachReporter(ExtentReports.java:82)
+	at com.qa.reports.ExtentReport.getReporter(ExtentReport.java:23)
+	at com.qa.reports.ExtentReport.startTest(ExtentReport.java:32)
+	at com.qa.listeners.TestListeners.onTestStart(TestListeners.java:77)
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:106)
+	at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:277)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:638)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+	at org.testng.TestRunner.privateRun(TestRunner.java:829)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:475)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[logsAndroid_emulator-5554 ERROR] 2023-06-23 17:25:02.738 TestListeners:32 - java.lang.NullPointerException
+	at com.qa.listeners.TestListeners.onTestFailure(TestListeners.java:64)
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:99)
+	at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:277)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:764)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+	at org.testng.TestRunner.privateRun(TestRunner.java:829)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:475)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 17:28:04.215 BaseTest:167 - log path: 
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 17:28:27.547 LoginTests:48 - 
+**********Starting test invalidPassword**********
+
+[logsAndroid_emulator-5554 ERROR] 2023-06-23 17:28:27.624 TestListeners:32 - java.lang.Error: Unresolved compilation problem: 
+	VERSION_2_3_29 cannot be resolved or is not a field
+
+	at com.aventstack.extentreports.reporter.BasicFileReporter.start(BasicFileReporter.java:98)
+	at com.aventstack.extentreports.ReportObservable.register(ReportObservable.java:191)
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:948)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:658)
+	at com.aventstack.extentreports.ExtentReports.attachReporter(ExtentReports.java:82)
+	at com.qa.reports.ExtentReport.getReporter(ExtentReport.java:23)
+	at com.qa.reports.ExtentReport.startTest(ExtentReport.java:32)
+	at com.qa.listeners.TestListeners.onTestStart(TestListeners.java:77)
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:106)
+	at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:277)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:638)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+	at org.testng.TestRunner.privateRun(TestRunner.java:829)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:475)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[logsAndroid_emulator-5554 ERROR] 2023-06-23 17:28:28.961 TestListeners:32 - java.lang.NullPointerException
+	at com.qa.listeners.TestListeners.onTestFailure(TestListeners.java:64)
+	at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:99)
+	at org.testng.internal.invokers.TestInvoker.runTestResultListener(TestInvoker.java:277)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:764)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+	at org.testng.TestRunner.privateRun(TestRunner.java:829)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:475)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 17:31:50.122 BaseTest:167 - log path: 
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 17:32:10.323 LoginTests:48 - 
+**********Starting test invalidPassword**********
+
+[logsAndroid_emulator-5554 ERROR] 2023-06-23 17:32:16.388 TestListeners:32 - java.lang.NullPointerException
+	at com.qa.BaseTest.sendKeys(BaseTest.java:245)
+	at com.qa.pages.LoginPage.enterUsername(LoginPage.java:18)
+	at com.qa.tests.LoginTests.invalidPassword(LoginTests.java:64)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+	at org.testng.TestRunner.privateRun(TestRunner.java:829)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:475)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 17:32:19.828 LoginTests:48 - 
+**********Starting test invalidUserName**********
+
+[logsAndroid_emulator-5554 ERROR] 2023-06-23 17:32:20.826 TestListeners:32 - java.lang.NullPointerException
+	at com.qa.BaseTest.sendKeys(BaseTest.java:245)
+	at com.qa.pages.LoginPage.enterUsername(LoginPage.java:18)
+	at com.qa.tests.LoginTests.invalidUserName(LoginTests.java:52)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+	at org.testng.TestRunner.privateRun(TestRunner.java:829)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:475)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+[logsAndroid_emulator-5554 INFO ] 2023-06-23 17:32:23.111 LoginTests:48 - 
+**********Starting test validLogin**********
+
+[logsAndroid_emulator-5554 ERROR] 2023-06-23 17:32:23.996 TestListeners:32 - java.lang.NullPointerException
+	at com.qa.BaseTest.sendKeys(BaseTest.java:245)
+	at com.qa.pages.LoginPage.enterUsername(LoginPage.java:18)
+	at com.qa.tests.LoginTests.validLogin(LoginTests.java:76)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+	at org.testng.TestRunner.privateRun(TestRunner.java:829)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:475)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
